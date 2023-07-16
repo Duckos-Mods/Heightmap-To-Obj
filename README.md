@@ -1,2 +1,3 @@
-# Heightmap-To-Obj
-This small python script converts a Heightmap to a valid OBJ
+# How to use?
+start the script from the commandline then pass a path to a png of a heightmap then click enter.
+
